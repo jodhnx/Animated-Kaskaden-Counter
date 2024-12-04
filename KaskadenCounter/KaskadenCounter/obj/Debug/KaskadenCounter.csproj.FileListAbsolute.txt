@@ -1,0 +1,7 @@
+C:\Users\benst\source\repos\KaskadenCounter\KaskadenCounter\bin\Debug\KaskadenCounter.exe.config
+C:\Users\benst\source\repos\KaskadenCounter\KaskadenCounter\bin\Debug\KaskadenCounter.exe
+C:\Users\benst\source\repos\KaskadenCounter\KaskadenCounter\bin\Debug\KaskadenCounter.pdb
+C:\Users\benst\source\repos\KaskadenCounter\KaskadenCounter\obj\Debug\KaskadenCounter.csproj.AssemblyReference.cache
+C:\Users\benst\source\repos\KaskadenCounter\KaskadenCounter\obj\Debug\KaskadenCounter.csproj.CoreCompileInputs.cache
+C:\Users\benst\source\repos\KaskadenCounter\KaskadenCounter\obj\Debug\KaskadenCounter.exe
+C:\Users\benst\source\repos\KaskadenCounter\KaskadenCounter\obj\Debug\KaskadenCounter.pdb
